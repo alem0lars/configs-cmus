@@ -1,0 +1,8 @@
+elems:
+
+  - src:  ^(rc)$
+    dst:  ~/.config/cmus/rc
+    only: f?cmus
+
+
+# vim: set filetype=eruby.yaml :
